@@ -12,6 +12,8 @@ void runTestCase() {
 	vector< vector<int> > board;
 	
 	// Populate board.
+	
+	//here the sixe of board is zero so how does this loop work?
 	for (int i = 0; i < board.size(); ++i) {
 
 		string temp;
